@@ -20,7 +20,7 @@ export const GifExpertApp = () => {
       {/* Input */}
       <AddCategory
         onNewCategory={onAddCategory}
-
+      
       />
 
       {/* Listado de Gif */}
